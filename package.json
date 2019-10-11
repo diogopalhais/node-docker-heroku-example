@@ -1,0 +1,12 @@
+{
+    "name": "node_docker_teste",
+    "version": "1.0.0",
+    "description": "Node.js on Docker to deply to Heroku",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
